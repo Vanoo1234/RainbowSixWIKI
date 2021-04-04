@@ -1,0 +1,59 @@
+body {
+    background-color:white;
+    font-family: Consolas;
+    margin: 0;
+}
+header {
+    background-color:skyblue;
+    height: 90px;
+}
+
+footer {
+    background-color:skyblue;
+    height: 75px;
+}
+
+header a {
+    background-color:cornflowerblue;
+    border-radius:5px;
+    text-decoration: none;
+}
+
+footer a {
+    background-color:cornflowerblue;
+    border-radius:5px;
+    text-decoration: none;
+}
+
+h1, h2 {
+    margin: 0;
+ 
+}
+article {
+    /* По часовой стрелке */
+    margin: 10px 20px 30px 40px;
+}
+
+Main {
+    padding: 20px;
+    background-color:whitesmoke;
+    border-radius: 15px;
+}
+
+p, h1, h2, h3 {
+    margin: 0;
+}
+
+
+/* margin: 10px 20px;
+    Внешний отступ: сверху-снизу слева-справа */
+    /* margin: 10px 20px 30px 40px;
+    Внешний отступ: сверху справа снизу слева */
+    /* Отступ сверху */
+    /* margin-top: 10px; */
+    /* Отступ справа */
+    /* margin-right: 40px; */
+    /* Отступ слева */
+    /* margin-left: 50px; */
+    /* Отступ снизу */
+    /* margin-bottom: 60px; */
